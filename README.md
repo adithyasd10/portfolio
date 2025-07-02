@@ -1,13 +1,6 @@
 # My Portfolio Website
 
 A simple personal portfolio website built using **HTML** and **CSS** to showcase my projects, skills, and contact information.
-
-## 🚀 Demo
-
-[🔗 View Live Website](https://your-portfolio-url.com)
-
-*(Replace the link above with your live portfolio URL, e.g. GitHub Pages, Netlify, Vercel, etc.)*
-
 ---
 
 ## 📂 Project Structure
