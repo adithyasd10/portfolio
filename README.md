@@ -4,17 +4,6 @@ A clean and responsive personal portfolio site built using **HTML5** and **CSS3*
 
 ---
 
-## 📂 Project Structure
-
-/ (root)
-│
-├── index.html
-├── styles.css
-├── assets/
-│ └── ... (images )
-└── README.md
-
-
 ## ✨ Features
 
 - ✅ Responsive layout
